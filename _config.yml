@@ -1,0 +1,6 @@
+title: Welcome to Rusty Lake
+email: bbbobo789@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I created a site to share my love to a video game. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
